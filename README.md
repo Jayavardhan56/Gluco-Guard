@@ -54,7 +54,7 @@ Community Focused: Built for users to take control of their health.
 
 🛠️ Setup & Installation
 Clone the repository:
-git clone https://github.com/yourusername/GlucoGuard.git
+git clone https://github.com/Jayavardan56/Gluco-Guard.git
 Open the project in Android Studio.
 
 Sync Gradle and build the project.
