@@ -5,6 +5,7 @@ GlucoGuard is a feature-rich Android app designed to help individuals manage the
 🌟 Features
 
 🎯 Core Functionality:
+
 Sugar Level Tracking: Record fasting and post-meal sugar levels effortlessly.
 
 Severity Analysis: Instantly calculates severity levels:
